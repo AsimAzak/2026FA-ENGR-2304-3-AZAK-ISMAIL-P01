@@ -5,6 +5,7 @@ int main(void)
 {
     printf("                         Hello, World!\n");
     printf("Welcome to ENGR 2304 - Programming for Engineers at Dallas College");
+    // revised
 
     return 0;
 }
